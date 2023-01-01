@@ -86,6 +86,13 @@
         <tr>
             <td>GitHub:fundaserenlimm </td>
         </tr>
+      <tr>
+        <th>4 YIL SONRA KENDİMİ NEREDE GÖRÜYORUM?</th>
+      </tr>
+      
+      </tr>
+            <td>Robotik kodlama ile ilgilendiğim için   kendimi bu alanda geliştirmek istiyorum.Aynı zamanda bir işi planlamayı, problemleri çözmeyi ve yönetmeyi severek yapabileceğimi düşündüğüm için  iş analisti olarak iyi bir şirkette çalışmayı hedefliyorum.
+  <tr>
     </table>
 
         <!--kaynaklar: https://html.sitesi.web.tr/tablolar.html
