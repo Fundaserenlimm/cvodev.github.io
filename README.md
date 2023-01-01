@@ -13,7 +13,7 @@
             <th style="font-size: 25px;">Funda Serenlim - Bilgisayar Mühendisi</th>
         </tr>
         <tr>
-            <td><img src="./funda.png" style="width: 200px;"/></td>
+          
         </tr>
     </table>
     <table border="2" style="width: 620px;">
